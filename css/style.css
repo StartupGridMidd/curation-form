@@ -1,0 +1,9 @@
+#container {
+  width:900px;
+  margin: 0 auto;
+  background: #f7f7f7;
+  padding: 20px;
+}
+.row {
+  margin: 20px 0;
+}
